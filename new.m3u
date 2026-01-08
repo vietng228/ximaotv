@@ -12,7 +12,7 @@ https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/17/1728296900530/38c6e7b9cb86_640_360.png", THVL1 HD
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0W7Nvg-dQjY/maxresdefault.jpg", THVL2 HD - Báo và PTTH Vĩnh Long
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0W7Nvg-dQjY/maxresdefault.jpg", THVL2 HD
 https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728294189124/f518bf3b705d_640_360.png", THVL3 HD
 https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
@@ -142,3 +142,4 @@ https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823449894/0834e6a36f71_640_360.png", HTVC Ca nhạc HD
 https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
+
